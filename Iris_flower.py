@@ -30,7 +30,7 @@ print(iris_data.head())
 # STEP 3: Understand Data
 # ===============================
 
-print("\nDataset Info:")
+print("\ndataset Info:")
 print(iris_data.info())
 
 print("\nStatistical Summary:")
